@@ -23,8 +23,6 @@ A Boilerplate for Laravel Inertia Vue with Auth by Fortify.
 -   [ ] Passwords Update
 -   [ ] Two Factor Authentication
 
-Still working on it, aiming for something big.
-
 ## Installation
 
 -   Clone the repo
