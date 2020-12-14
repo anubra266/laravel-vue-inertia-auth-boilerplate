@@ -1,6 +1,6 @@
-# A-PMS
+# LIVA
 
-<p align="center"><img src="./icon.png" width="100"></p>
+<p align="center"><img src="./favicon.png" width="100"></p>
 
 ## Contents
 
@@ -11,7 +11,7 @@
 
 ## About
 
-It's apparently a web app, to help organise projects and involved tasks. Such that clients can also see the progress of the project in metrics at any time.
+A Boilerplate for Laravel Inertia Vue with Auth by Fortify.
 
 
 ## Features
